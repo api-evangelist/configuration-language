@@ -2,7 +2,7 @@ aid: configuration-language
 url: >-
   https://raw.githubusercontent.com/api-evangelist/configuration-language/refs/heads/main/apis.yml
 name: Configuration Language
-x-type: topic
+kind: topic
 description: >-
   Configuration languages are formats and DSLs used to express the desired
   state of software systems, infrastructure, applications, and APIs.
