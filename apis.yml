@@ -12,7 +12,7 @@ description: >-
   choice of configuration language shapes how teams describe Kubernetes
   manifests, Terraform infrastructure, OpenAPI specs, CI pipelines, and
   developer environments.
-image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
 tags:
   - Configuration
   - DSL
