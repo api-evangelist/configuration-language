@@ -233,6 +233,8 @@ apis:
       - Distinct query language KQL for navigation
       - Schema language KDL Schema
 common:
+  - type: DomainSecurity
+    url: security/configuration-language-domain-security.yml
   - type: Reference
     url: https://en.wikipedia.org/wiki/Configuration_file
   - type: Reference
