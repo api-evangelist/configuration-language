@@ -245,6 +245,13 @@ apis:
       - Distinct query language KQL for navigation
       - Schema language KDL Schema
 common:
+  - type: IssueTracker
+    url: https://github.com/toml-lang/toml/issues
+  - type: Releases
+    url: https://github.com/toml-lang/toml/releases
+  - type: License
+    name: MIT
+    url: https://github.com/toml-lang/toml/blob/main/LICENSE
   - type: DomainSecurity
     url: security/configuration-language-domain-security.yml
   - type: Reference
