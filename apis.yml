@@ -155,7 +155,7 @@ apis:
     humanURL: https://cuelang.org/
     baseURL: https://cuelang.org
     tags:
-      - CUE
+      - Cue
       - Schema
       - Type System
       - Validation
@@ -185,7 +185,7 @@ apis:
     tags:
       - Dhall
       - Functional
-      - TOTAL
+      - Total
       - Type Safe
     tags_raw:
       - Dhall
