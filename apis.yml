@@ -41,6 +41,14 @@ tags:
   - Configuration
   - DSL
   - Infrastructure as Code
+  - Schema
+  - Serialization
+  - Templating
+  - YAML
+tags_raw:
+  - Configuration
+  - DSL
+  - Infrastructure as Code
   - Schemas
   - Serialization
   - Templating
